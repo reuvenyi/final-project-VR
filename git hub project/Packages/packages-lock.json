@@ -1,13 +1,14 @@
 {
   "dependencies": {
     "com.meta.movement": {
-      "version": "file:C:/Users/Idan/Downloads/Unity-Movement-4.3.0/Unity-Movement-4.3.0",
+      "version": "https://github.com/oculus-samples/Unity-Movement.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.textmeshpro": "3.0.6",
         "com.unity.animation.rigging": "1.2.1"
-      }
+      },
+      "hash": "61620c8af1d3b1b796cef0edd90531345de64823"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "62.0.0",
