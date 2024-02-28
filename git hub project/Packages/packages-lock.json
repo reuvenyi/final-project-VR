@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.meta.movement": {
-      "version": "file:C:/Users/tevel/Downloads/Unity-Movement-4.3.0/Unity-Movement-4.3.0",
+      "version": "file:C:/Users/Idan/Downloads/Unity-Movement-4.3.0/Unity-Movement-4.3.0",
       "depth": 0,
       "source": "local",
       "dependencies": {
